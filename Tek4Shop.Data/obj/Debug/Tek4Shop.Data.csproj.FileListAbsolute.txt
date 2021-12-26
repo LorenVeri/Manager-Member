@@ -1,0 +1,14 @@
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\Tek4Shop.Data.dll.config
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\Tek4Shop.Data.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\Tek4Shop.Data.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\EntityFramework.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\Tek4Shop.Common.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\Tek4Shop.Common.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\EntityFramework.xml
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\obj\Debug\Tek4Shop.Data.csproj.AssemblyReference.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\obj\Debug\Tek4Shop.Data.csproj.CoreCompileInputs.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\obj\Debug\Tek4Shop.Data.csproj.CopyComplete
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\obj\Debug\Tek4Shop.Data.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Data\obj\Debug\Tek4Shop.Data.pdb

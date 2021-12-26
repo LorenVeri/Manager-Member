@@ -1,0 +1,15 @@
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Service.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Service.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Common.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Data.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Model.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Common.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Data.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Data.dll.config
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Model.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\bin\Debug\Tek4Shop.Model.dll.config
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\obj\Debug\Tek4Shop.Service.csproj.AssemblyReference.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\obj\Debug\Tek4Shop.Service.csproj.CoreCompileInputs.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\obj\Debug\Tek4Shop.Service.csproj.CopyComplete
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\obj\Debug\Tek4Shop.Service.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Service\obj\Debug\Tek4Shop.Service.pdb

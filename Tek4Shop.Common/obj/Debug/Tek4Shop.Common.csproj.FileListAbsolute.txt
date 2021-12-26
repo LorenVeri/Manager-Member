@@ -1,0 +1,6 @@
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\bin\Debug\Tek4Shop.Common.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\bin\Debug\Tek4Shop.Common.pdb
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\obj\Debug\Tek4Shop.Common.csproj.AssemblyReference.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\obj\Debug\Tek4Shop.Common.csproj.CoreCompileInputs.cache
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\obj\Debug\Tek4Shop.Common.dll
+D:\PROJECT THỰC TẬP\Tek4Shop\Tek4Shop.Common\obj\Debug\Tek4Shop.Common.pdb
